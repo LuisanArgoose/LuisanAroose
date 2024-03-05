@@ -1,1 +1,1 @@
-![](https://github.com/LuisanArgoose/LuisanArgoose/blob/main/ArgooseLogo.png)
+![](https://github.com/LuisanArgoose/LuisanAroose/blob/main/ArgooseLogo.png)
