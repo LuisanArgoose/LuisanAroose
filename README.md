@@ -1,1 +1,1 @@
-![Image alt](https://github.com/LuisanArgoose/LuisanArgoose/raw/main/Argoose Logo.png)
+![Image alt](https://github.com/LuisanArgoose/LuisanArgoose/raw/main/ArgooseLogo.png)
