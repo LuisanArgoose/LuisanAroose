@@ -23,4 +23,4 @@
 - Python
 - Java
 - C/C++
-Связаться со мной можно [тут](https://t.me/LuisanArgoose)
+  Связаться со мной можно [тут](https://t.me/LuisanArgoose)
