@@ -5,7 +5,7 @@
   - EF Core
   - WPF + MVVM
   - ASP.NET + MVC + API
-- Cреды разработок
+- Cреды разработки
   - Unity 
   - Visual Studio
 - Базы данных
