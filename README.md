@@ -6,14 +6,14 @@
 Моя цель — развиваться в сфере геймдизайна, используя свои знания и навыки для создания уникальных игровых продуктов. Обладаю обширными знаниями в области разработки игр и стремлюсь применить их на практике. Умею находить и использовать новейшую информацию, что позволяет мне оставаться в курсе последних тенденций и технологий.
 
 **Основной стэк**
-  - C# .NET ![C#](https://img.icons8.com/color/16/000000/c-sharp-logo.png)  
+  - C# .NET ![C#](https://img.icons8.com/color/24/000000/c-sharp-logo.png)  
   - EF Core 
-  - WPF + MVVM ![WPF](https://img.icons8.com/color/16/000000/windows-10.png)
+  - WPF + MVVM ![WPF](https://img.icons8.com/color/24/000000/windows-10.png)
   - ASP.NET + MVC + API 
 
 **Среды разработки**
-  - Unity ![Unity](https://img.icons8.com/color/16/000000/unity.png)
-  - Visual Studio ![Visual Studio](https://img.icons8.com/color/16/000000/visual-studio.png)
+  - Unity ![Unity](https://img.icons8.com/color/24/000000/unity.png)
+  - Visual Studio ![Visual Studio](https://img.icons8.com/color/24/000000/visual-studio.png)
 
 **Базы данных**
   - MS Sql Server ![MS SQL Server](https://img.icons8.com/color/24/000000/microsoft-sql-server.png)
