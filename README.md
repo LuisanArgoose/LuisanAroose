@@ -9,7 +9,7 @@
   - C# .NET ![C#](https://img.icons8.com/color/24/000000/c-sharp-logo.png)  
   - EF Core 
   - WPF + MVVM ![WPF](https://img.icons8.com/color/24/000000/windows-10.png)
-  - ASP.NET + MVC + API  ![ASP.NET](https://github.com/dotnet/docs/blob/cb475ed45f881e9462e34764480d3b0ebce85e91/docs/images/hub/netcore.svg)
+  - ASP.NET + MVC + API  ![ASP.NET](https://www.google.com/url?sa=i&url=https%3A%2F%2Fdzen.ru%2Fa%2FY_pjbDA_H1wtziqu&psig=AOvVaw3qD6qRDicorjNV9O368IOw&ust=1717512257050000&source=images&cd=vfe&opi=89978449&ved=2ahUKEwjI74zx1b-GAxUQbvEDHe7qDccQjRx6BAgAEBU = 24x42)
 
 **Среды разработки**
   - Unity ![Unity](https://img.icons8.com/color/24/000000/unity.png)
