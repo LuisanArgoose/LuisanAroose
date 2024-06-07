@@ -9,13 +9,16 @@
   .container {
     display: flex;
     flex-wrap: wrap;
+    justify-content: space-between;
   }
 
   .box {
-    flex: 1 1 200px;
+    flex: 1 1 30%;
     border: 2px solid black;
     padding: 10px;
     margin: 10px;
+    border-radius: 10px;
+    background-color: lightgray;
   }
 </style>
 
