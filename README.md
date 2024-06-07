@@ -22,7 +22,7 @@
     background-color: lightgray;
   }
 </style>
-<!-- markdownlint-disable MD033 -->
+
 <div class="container">
   <div class="box">
     <h3>Основной стэк</h3>
@@ -76,6 +76,6 @@
     </ul>
   </div>
 </div>
-<!-- markdownlint-enable MD033 -->
+
 
 **Связаться со мной можно [тут](https://t.me/LuisanArgoose)** ![Telegram](https://img.icons8.com/color/24/000000/telegram-app.png)
