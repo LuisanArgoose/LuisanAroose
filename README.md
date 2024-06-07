@@ -6,25 +6,10 @@
 Моя цель — развиваться в сфере геймдизайна, используя свои знания и навыки для создания уникальных игровых продуктов. Обладаю обширными знаниями в области разработки игр и стремлюсь применить их на практике. Умею находить и использовать новейшую информацию, что позволяет мне оставаться в курсе последних тенденций и технологий.
 
 <!-- markdownlint-disable MD033 -->
-<style>
-  .container {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-between;
-  }
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
 
-  .box {
-    flex: 1 1 30%;
-    border: 2px solid black;
-    padding: 10px;
-    margin: 10px;
-    border-radius: 10px;
-    background-color: lightgray;
-  }
-</style>
-
-<div class="container">
-  <div class="box">
+  <!-- Основной стэк -->
+  <div style="flex: 1 1 30%; border: 2px solid black; padding: 10px; margin: 10px; border-radius: 10px; background-color: lightgray;">
     <h3>Основной стэк</h3>
     <ul>
       <li>C# .NET <img src="https://img.icons8.com/color/24/000000/c-sharp-logo.png" alt="C#" /></li>
@@ -34,7 +19,8 @@
     </ul>
   </div>
 
-  <div class="box">
+  <!-- Среды разработки -->
+  <div style="flex: 1 1 30%; border: 2px solid black; padding: 10px; margin: 10px; border-radius: 10px; background-color: lightgray;">
     <h3>Среды разработки</h3>
     <ul>
       <li>Unity <img src="https://img.icons8.com/color/24/000000/unity.png" alt="Unity" /></li>
@@ -42,7 +28,8 @@
     </ul>
   </div>
 
-  <div class="box">
+  <!-- Базы данных -->
+  <div style="flex: 1 1 30%; border: 2px solid black; padding: 10px; margin: 10px; border-radius: 10px; background-color: lightgray;">
     <h3>Базы данных</h3>
     <ul>
       <li>MS Sql Server <img src="https://img.icons8.com/color/24/000000/microsoft-sql-server.png" alt="MS SQL Server" /></li>
@@ -51,7 +38,8 @@
     </ul>
   </div>
 
-  <div class="box">
+  <!-- Инструменты управления проектами -->
+  <div style="flex: 1 1 30%; border: 2px solid black; padding: 10px; margin: 10px; border-radius: 10px; background-color: lightgray;">
     <h3>Инструменты управления проектами</h3>
     <ul>
       <li>Git <img src="https://img.icons8.com/color/24/000000/git.png" alt="Git" /></li>
@@ -59,11 +47,22 @@
     </ul>
   </div>
 
-  <div class="box">
+  <!-- ПО для передачи файлов -->
+  <div style="flex: 1 1 30%; border: 2px solid black; padding: 10px; margin: 10px; border-radius: 10px; background-color: lightgray;">
     <h3>ПО для передачи файлов</h3>
     <ul>
       <li>FileZilla <img src="https://img.icons8.com/color/24/000000/filezilla.png" alt="FileZilla" /></li>
       <li>Synology</li>
+    </ul>
+  </div>
+
+  <!-- Дополнительный стэк -->
+  <div style="flex: 1 1 30%; border: 2px solid black; padding: 10px; margin: 10px; border-radius: 10px; background-color: lightgray;">
+    <h3>Дополнительный стэк</h3>
+    <ul>
+      <li>Python <img src="https://img.icons8.com/color/24/000000/python.png" alt="Python" /></li>
+      <li>Java <img src="https://img.icons8.com/color/24/000000/java-coffee-cup-logo.png" alt="Java" /></li>
+      <li>C/C++ <img src="https://img.icons8.com/color/24/000000/c-plus-plus-logo.png" alt="C/C++"/></li>
     </ul>
   </div>
 
