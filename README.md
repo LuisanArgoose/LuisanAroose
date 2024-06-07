@@ -5,9 +5,51 @@
 
 Моя цель — развиваться в сфере геймдизайна, используя свои знания и навыки для создания уникальных игровых продуктов. Обладаю обширными знаниями в области разработки игр и стремлюсь применить их на практике. Умею находить и использовать новейшую информацию, что позволяет мне оставаться в курсе последних тенденций и технологий.
 
-| Основной стэк             | Среды разработки              | Базы данных                 | Инструменты управления проектами | ПО для передачи файлов  | Дополнительный стэк    |
-|---------------------------|-------------------------------|-----------------------------|----------------------------------|-------------------------|------------------------|
-| <span style="white-space: nowrap;">C# .NET</span> ![C#](https://img.icons8.com/color/24/000000/c-sharp-logo.png) <br> EF Core <br> WPF + MVVM ![WPF](https://img.icons8.com/color/24/000000/windows-10.png) <br> ASP.NET + MVC + API | <span style="white-space: nowrap;">Unity</span> ![Unity](https://img.icons8.com/color/24/000000/unity.png) <br> <span style="white-space: nowrap;">Visual Studio</span> ![Visual Studio](https://img.icons8.com/color/24/000000/visual-studio.png) | <span style="white-space: nowrap;">MS Sql Server</span> ![MS SQL Server](https://img.icons8.com/color/24/000000/microsoft-sql-server.png) <br> <span style="white-space: nowrap;">PostgreSQL</span> ![PostgreSQL](https://img.icons8.com/color/24/000000/postgreesql.png) <br> <span style="white-space: nowrap;">SQLite</span> ![SQLite](https://img.icons8.com/color/24/000000/sql.png) | <span style="white-space: nowrap;">Git</span> ![Git](https://img.icons8.com/color/24/000000/git.png) <br> <span style="white-space: nowrap;">Jira</span> ![Jira](https://img.icons8.com/color/24/000000/jira.png) | <span style="white-space: nowrap;">FileZilla</span> ![FileZilla](https://img.icons8.com/color/24/000000/filezilla.png) <br> Synology | <span style="white-space: nowrap;">Python</span> ![Python](https://img.icons8.com/color/24/000000/python.png) <br> <span style="white-space: nowrap;">Java</span> ![Java](https://img.icons8.com/color/24/000000/java-coffee-cup-logo.png) <br> <span style="white-space: nowrap;">C/C++</span> ![C/C++](https://img.icons8.com/color/24/000000/c-plus-plus-logo.png) |
+<details>
+  <summary><strong>Основной стэк</strong></summary>
+
+  - C# .NET ![C#](https://img.icons8.com/color/24/000000/c-sharp-logo.png)  
+  - EF Core 
+  - WPF + MVVM ![WPF](https://img.icons8.com/color/24/000000/windows-10.png)
+  - ASP.NET + MVC + API  
+</details>
+
+<details>
+  <summary><strong>Среды разработки</strong></summary>
+
+  - Unity ![Unity](https://img.icons8.com/color/24/000000/unity.png)
+  - Visual Studio ![Visual Studio](https://img.icons8.com/color/24/000000/visual-studio.png)
+</details>
+
+<details>
+  <summary><strong>Базы данных</strong></summary>
+
+  - MS Sql Server ![MS SQL Server](https://img.icons8.com/color/24/000000/microsoft-sql-server.png)
+  - PostgreSQL ![PostgreSQL](https://img.icons8.com/color/24/000000/postgreesql.png)
+  - SQLite ![SQLite](https://img.icons8.com/color/24/000000/sql.png)
+</details>
+
+<details>
+  <summary><strong>Инструменты управления проектами</strong></summary>
+
+  - Git ![Git](https://img.icons8.com/color/24/000000/git.png)
+  - Jira ![Jira](https://img.icons8.com/color/24/000000/jira.png)
+</details>
+
+<details>
+  <summary><strong>ПО для передачи файлов</strong></summary>
+
+  - FileZilla ![FileZilla](https://img.icons8.com/color/24/000000/filezilla.png)
+  - Synology 
+</details>
+
+<details>
+  <summary><strong>Дополнительный стэк</strong></summary>
+
+  - Python ![Python](https://img.icons8.com/color/24/000000/python.png)
+  - Java ![Java](https://img.icons8.com/color/24/000000/java-coffee-cup-logo.png)
+  - C/C++ ![C/C++](https://img.icons8.com/color/24/000000/c-plus-plus-logo.png)
+</details>
 
 
 **Связаться со мной можно [тут](https://t.me/LuisanArgoose)** ![Telegram](https://img.icons8.com/color/24/000000/telegram-app.png)
