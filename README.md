@@ -5,32 +5,72 @@
 
 Моя цель — развиваться в сфере геймдизайна, используя свои знания и навыки для создания уникальных игровых продуктов. Обладаю обширными знаниями в области разработки игр и стремлюсь применить их на практике. Умею находить и использовать новейшую информацию, что позволяет мне оставаться в курсе последних тенденций и технологий.
 
-**Основной стэк**
-  - C# .NET ![C#](https://img.icons8.com/color/24/000000/c-sharp-logo.png)  
-  - EF Core 
-  - WPF + MVVM ![WPF](https://img.icons8.com/color/24/000000/windows-10.png)
-  - ASP.NET + MVC + API  
+<style>
+  .container {
+    display: flex;
+    flex-wrap: wrap;
+  }
 
-**Среды разработки**
-  - Unity ![Unity](https://img.icons8.com/color/24/000000/unity.png)
-  - Visual Studio ![Visual Studio](https://img.icons8.com/color/24/000000/visual-studio.png)
+  .box {
+    flex: 1 1 200px;
+    border: 2px solid black;
+    padding: 10px;
+    margin: 10px;
+  }
+</style>
 
-**Базы данных**
-  - MS Sql Server ![MS SQL Server](https://img.icons8.com/color/24/000000/microsoft-sql-server.png)
-  - PostgreSQL ![PostgreSQL](https://img.icons8.com/color/24/000000/postgreesql.png)
-  - SQLite ![SQLite](https://img.icons8.com/color/24/000000/sql.png)
+<div class="container">
+  <div class="box">
+    <h3>Основной стэк</h3>
+    <ul>
+      <li>C# .NET <img src="https://img.icons8.com/color/24/000000/c-sharp-logo.png" alt="C#" /></li>
+      <li>EF Core</li>
+      <li>WPF + MVVM <img src="https://img.icons8.com/color/24/000000/windows-10.png" alt="WPF" /></li>
+      <li>ASP.NET + MVC + API</li>
+    </ul>
+  </div>
 
-**Инструменты управления проектами**
-  - Git ![Git](https://img.icons8.com/color/24/000000/git.png)
-  - Jira ![Jira](https://img.icons8.com/color/24/000000/jira.png)
+  <div class="box">
+    <h3>Среды разработки</h3>
+    <ul>
+      <li>Unity <img src="https://img.icons8.com/color/24/000000/unity.png" alt="Unity" /></li>
+      <li>Visual Studio <img src="https://img.icons8.com/color/24/000000/visual-studio.png" alt="Visual Studio" /></li>
+    </ul>
+  </div>
 
-**ПО для передачи файлов**
-  - FileZilla ![FileZilla](https://img.icons8.com/color/24/000000/filezilla.png)
-  - Synology 
+  <div class="box">
+    <h3>Базы данных</h3>
+    <ul>
+      <li>MS Sql Server <img src="https://img.icons8.com/color/24/000000/microsoft-sql-server.png" alt="MS SQL Server" /></li>
+      <li>PostgreSQL <img src="https://img.icons8.com/color/24/000000/postgreesql.png" alt="PostgreSQL" /></li>
+      <li>SQLite <img src="https://img.icons8.com/color/24/000000/sql.png" alt="SQLite" /></li>
+    </ul>
+  </div>
 
-**Дополнительный стэк**
-  - Python ![Python](https://img.icons8.com/color/24/000000/python.png)
-  - Java ![Java](https://img.icons8.com/color/24/000000/java-coffee-cup-logo.png)
-  - C/C++ ![C/C++](https://img.icons8.com/color/24/000000/c-plus-plus-logo.png)
+  <div class="box">
+    <h3>Инструменты управления проектами</h3>
+    <ul>
+      <li>Git <img src="https://img.icons8.com/color/24/000000/git.png" alt="Git" /></li>
+      <li>Jira <img src="https://img.icons8.com/color/24/000000/jira.png" alt="Jira" /></li>
+    </ul>
+  </div>
+
+  <div class="box">
+    <h3>ПО для передачи файлов</h3>
+    <ul>
+      <li>FileZilla <img src="https://img.icons8.com/color/24/000000/filezilla.png" alt="FileZilla" /></li>
+      <li>Synology</li>
+    </ul>
+  </div>
+
+  <div class="box">
+    <h3>Дополнительный стэк</h3>
+    <ul>
+      <li>Python <img src="https://img.icons8.com/color/24/000000/python.png" alt="Python" /></li>
+      <li>Java <img src="https://img.icons8.com/color/24/000000/java-coffee-cup-logo.png" alt="Java" /></li>
+      <li>C/C++ <img src="https://img.icons8.com/color/24/000000/c-plus-plus-logo.png" alt="C/C++" /></li>
+    </ul>
+  </div>
+</div>
 
 **Связаться со мной можно [тут](https://t.me/LuisanArgoose)** ![Telegram](https://img.icons8.com/color/24/000000/telegram-app.png)
