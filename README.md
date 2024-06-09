@@ -1,32 +1,25 @@
 ![](https://github.com/LuisanArgoose/LuisanAroose/blob/main/ArgooseLogo.png)
 # Программист C# - Game designer Argoose
 
-Опытный C# программист с глубоким пониманием различных языков программирования и высокой гибкостью в их применении. Имею значительный опыт работы с технологиями WPF+MVVM и ASP.NET Core. Быстро осваиваю новые технологии и эффективно решаю любые задачи, связанные с разработкой программных решений.
+C# программист с глубоким пониманием ООП и большим опытом работы с технологиями WPF+MVVM и ASP.NET Core. Быстро осваиваю новые технологии и эффективно решаю любые задачи, связанные с разработкой программных решений.
 
-Моя цель — развиваться в сфере геймдизайна, используя свои знания и навыки для создания уникальных игровых продуктов. Обладаю обширными знаниями в области разработки игр и стремлюсь применить их на практике. Умею находить и использовать новейшую информацию, что позволяет мне оставаться в курсе последних тенденций и технологий.
+Моя цель — развиваться в сфере геймдизайна. Пишу собственные сюжетные истории, занимаюсь саунд-дизайном, участвю в геймджемах, разрабаотываю игровые концепты и механики.
+
+## Образование
+
+Институт Среднего Профессионального Образования при СПбПУ по специальности "Информационные системы и программирование"
+
+## Основные проекты
+  - [ShopProject](https://github.com/LuisanArgoose/ShopProject) - ИС для составления и контроля плана продаж магазина одежды C# WPF ASP.NET Core
+  - [NeuroMaze](https://github.com/LuisanArgoose/NeuroMaze) - Игра-нейроинтерфейс на Unity 2D
+  - [Maze](https://github.com/LuisanArgoose/Maze) - Библиотека для генерации 2D лабиринтов на языке C#
+  - [TravelCompany](https://github.com/LuisanArgoose/TravelCompany) - ИС для туристического агентства C# WPF 
 
 **Основной стэк**
   - C# .NET ![C#](https://img.icons8.com/color/20/000000/c-sharp-logo.png)  
   - EF Core 
   - WPF + MVVM ![WPF](https://img.icons8.com/color/20/000000/windows-10.png)
   - ASP.NET + MVC + API  
-
-**Среды разработки**
-  - Unity ![Unity](https://img.icons8.com/color/20/000000/unity.png)
-  - Visual Studio ![Visual Studio](https://img.icons8.com/color/20/000000/visual-studio.png)
-
-**Базы данных**
-  - MS Sql Server ![MS SQL Server](https://img.icons8.com/color/20/000000/microsoft-sql-server.png)
-  - PostgreSQL ![PostgreSQL](https://img.icons8.com/color/20/000000/postgreesql.png)
-  - SQLite ![SQLite](https://img.icons8.com/color/20/000000/sql.png)
-
-**Инструменты управления проектами**
-  - Git ![Git](https://img.icons8.com/color/20/000000/git.png)
-  - Jira ![Jira](https://img.icons8.com/color/20/000000/jira.png)
-
-**ПО для передачи файлов**
-  - FileZilla ![FileZilla](https://img.icons8.com/color/20/000000/filezilla.png)
-  - Synology 
 
 **Дополнительный стэк**
   - Python ![Python](https://img.icons8.com/color/20/000000/python.png)
