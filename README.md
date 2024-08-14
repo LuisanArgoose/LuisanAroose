@@ -1,5 +1,5 @@
 ![](https://github.com/LuisanArgoose/LuisanAroose/blob/main/ArgooseLogo.png)
-# Программист C#  Argoose
+# Программист C# LuisanArgoose
 
 C# программист с глубоким пониманием ООП и большим опытом работы с технологиями WPF+MVVM, ASP.NET Core и Unity. Быстро осваиваю новые технологии и эффективно решаю любые задачи, связанные с разработкой программных решений.
 
