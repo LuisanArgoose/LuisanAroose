@@ -13,7 +13,8 @@ C# программист с глубоким пониманием ООП и б�
   - [ShopProject](https://github.com/LuisanArgoose/ShopProject) - ИС для составления и контроля плана продаж магазина одежды C# WPF ASP.NET Core
   - [NeuroMaze](https://github.com/LuisanArgoose/NeuroMaze) - Игра-нейроинтерфейс на Unity 2D
   - [Maze](https://github.com/LuisanArgoose/Maze) - Библиотека для генерации 2D лабиринтов на языке C#
-  - [TravelCompany](https://github.com/LuisanArgoose/TravelCompany) - ИС для туристического агентства C# WPF 
+  - [TravelCompany](https://github.com/LuisanArgoose/TravelCompany) - ИС для туристического агентства C# WPF
+  - [ConsoleCalculator](https://github.com/LuisanArgoose/ConsoleCalculator) - Калькулятор с Web интерфейсом
 
 **Основной стэк**
   - C# .NET ![C#](https://img.icons8.com/color/20/000000/c-sharp-logo.png)  
