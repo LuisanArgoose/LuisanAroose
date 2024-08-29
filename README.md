@@ -15,6 +15,7 @@ C# программист с глубоким пониманием ООП и б�
   - [Maze](https://github.com/LuisanArgoose/Maze) - Библиотека для генерации 2D лабиринтов на языке C#
   - [TravelCompany](https://github.com/LuisanArgoose/TravelCompany) - ИС для туристического агентства C# WPF
   - [ConsoleCalculator](https://github.com/LuisanArgoose/ConsoleCalculator) - Калькулятор с Web интерфейсом
+  - [WineParser](https://github.com/LuisanArgoose/WineParser) - многопоточный парсер на C# для сайта simplewine.ru
 
 **Основной стэк**
   - C# .NET ![C#](https://img.icons8.com/color/20/000000/c-sharp-logo.png)  
